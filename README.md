@@ -15,13 +15,13 @@ Name Toss GUI is a Python program using Tkinter to simulate a name toss. It disp
 
 ## Usage
 
-Navigate to the project directory:
+1. Navigate to the project directory:
 
 cd name-toss-gui
 
-Run the Python script name_toss_gui.py:
+2. Run the Python script NameToss.py:
 
-python name_toss_gui.py
+python NameToss.py
 
 Click the "Spin Wheel" button to initiate the name toss. The program will display a spinning animation before selecting a random name from the list and displaying it.
 
